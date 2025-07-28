@@ -76,6 +76,3 @@ Este repositório acompanha o artigo submetido ao **Simpósio Brasileiro de Pesq
 
 - Leonardo Gaertner — [@leonardogaertner](https://github.com/leonardogaertner)
 
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
